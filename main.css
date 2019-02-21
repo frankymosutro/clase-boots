@@ -1,3 +1,28 @@
 nav > a{
   color:#fff;
 }
+.jumbotron{
+  background-image: url(https://static.wixstatic.com/media/d50080_b472b894c4db4931a100610a5e94003c.jpg);
+  background-attachment: fixed;
+  margin-bottom: 0px;
+  overflow: rgba(255, 0, 0, 0.5);
+  height: 50vh;
+  width: 100%;
+}
+#cuento .row{
+  background-image: url(img/texture1.png);
+  background-repeat: repeat;
+  width: 100%;
+  height:35%;
+}
+.centrado{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.primera{
+  height: 55vh;
+}
+.bg-primary2{
+  background: #f7f7f7f7;
+}
